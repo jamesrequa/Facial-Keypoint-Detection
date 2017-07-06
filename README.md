@@ -2,7 +2,7 @@
 
 [image1]: ./images/obamas_with_keypoints.png "Facial Keypoint Detection"
 
-## Facial Keypoint Detection
+## Facial Keypoint Detection (work in progress)
 
 In this project, I combine my knowledge of computer vision techniques and deep learning to build an end-to-end facial keypoint recognition system. Facial keypoints include points around the eyes, nose, and mouth on any face and are used in many applications, from facial tracking to emotion recognition. My completed solution can take in any image containing faces and identify the location of each face and their facial keypoints, as shown below.
 
