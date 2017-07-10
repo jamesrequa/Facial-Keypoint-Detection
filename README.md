@@ -39,6 +39,6 @@ Design a convolutional network architecture for learning correspondence between 
 Compile and train the CNN on the dataset.
 Visualize the loss function.
 
-#### Step 8:  Complete a facial keypoints detector and complete the CV pipeline
+#### Step 6:  Complete a facial keypoints detector and complete the CV pipeline
 Combine OpenCV face detection with trained convnet facial keypoint detector to detect facial keypoints on any image
 that contains one or multiple human faces.
